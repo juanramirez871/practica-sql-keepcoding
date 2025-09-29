@@ -5,7 +5,7 @@
 #### Contiene los titulos de los ejercicios especificados en el archivo "Practica Advanced SQL.pdf" con su archivo respondiente de la soluccion SQL
 
 ### 1. DIAGRAMA ENTIDAD RELACIÓN
-archivo: diagramado-keepcoding.png
+archivo: diagramado-keepcoding.pdf
 
 ### 2. CREACIÓN DE BASE DE DATOS
 archivo: database-keepcoding.sql
